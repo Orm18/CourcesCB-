@@ -23,6 +23,7 @@ namespace Cource
                 {
                     Console.WriteLine("Options: currency char code or num code, list.");
                     code = Console.ReadLine(); //что то читаем
+                    // Другой комментарий
                 }
                 else
                 {
