@@ -22,9 +22,9 @@ namespace Cource
                 if (string.IsNullOrWhiteSpace(userCommand))
                 {
                     Console.WriteLine("Options: currency char code or num code, list.");
-                    code = Console.ReadLine(); //что то читаем
-                    // Другой комментарий
-                }
+                    code = Console.ReadLine(); 
+
+                 }
                 else
                 {
                     code = userCommand;
