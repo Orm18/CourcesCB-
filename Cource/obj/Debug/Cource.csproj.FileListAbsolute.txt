@@ -1,0 +1,9 @@
+C:\Repository\CourcesCB-\Cource\bin\Debug\Cource.exe.config
+C:\Repository\CourcesCB-\Cource\bin\Debug\Cource.exe
+C:\Repository\CourcesCB-\Cource\bin\Debug\Cource.pdb
+C:\Repository\CourcesCB-\Cource\bin\Debug\Newtonsoft.Json.dll
+C:\Repository\CourcesCB-\Cource\obj\Debug\Cource.csprojAssemblyReference.cache
+C:\Repository\CourcesCB-\Cource\obj\Debug\Cource.csproj.CoreCompileInputs.cache
+C:\Repository\CourcesCB-\Cource\obj\Debug\Cource.csproj.CopyComplete
+C:\Repository\CourcesCB-\Cource\obj\Debug\Cource.exe
+C:\Repository\CourcesCB-\Cource\obj\Debug\Cource.pdb
